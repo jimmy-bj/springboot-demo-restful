@@ -6,4 +6,4 @@ springboot-demo-restful
 mvn package
 执行完会生成一个jar文件
 3.运行jar文件
-jara -jar target/demo-0.0.1-SNAPSHOT.jar
+java -jar target/demo-0.0.1-SNAPSHOT.jar
